@@ -11,8 +11,8 @@ These are the sources I used to learn the syllabus for TMA4245.
 - [Fourier Series Part 1](https://www.youtube.com/watch?v=x04dnqg-iPw&ab_channel=SaulRemiHernandez)
 - [Fourier Series Part 2](https://www.youtube.com/watch?v=B9l1fZLLW1E&ab_channel=SaulRemiHernandez)
 - [Fourier Series Part 4](https://www.youtube.com/watch?v=AqQpIEMhKQA&ab_channel=SaulRemiHernandez)
-- https://www.youtube.com/watch?v=_ZB4upHQCvQ&list=PLF6061160B55B0203&index=14&ab_channel=commutant 
-- https://www.youtube.com/watch?v=KfRE744AFEE&list=PLF6061160B55B0203&index=15&ab_channel=commutant
+- [FA 1 | Fourier series introduction](https://www.youtube.com/watch?v=_ZB4upHQCvQ&list=PLF6061160B55B0203&index=14&ab_channel=commutant) 
+- [FA 2 | Computing Fourier series](https://www.youtube.com/watch?v=KfRE744AFEE&list=PLF6061160B55B0203&index=15&ab_channel=commutant)
 
 #### Odd or Even functions
 
