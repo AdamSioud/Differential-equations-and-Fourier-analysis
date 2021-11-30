@@ -4,7 +4,9 @@
 
 These are the sources I used to learn the syllabus for TMA4245.
 
-### Fourier series
+### Laplace Transfrom
+
+### Fourier Seris
 
 #### Fourier series explained in general
 
@@ -22,3 +24,14 @@ These are the sources I used to learn the syllabus for TMA4245.
 
 - [Complex Form of Fourier Series](https://math24.net/complex-form-fourier-series.html)
 - [Complex Fourier Series](https://www.youtube.com/watch?v=aC0j8CW58AM&ab_channel=blackpenredpen)
+
+
+### Exams
+
+Autumn 2019 : [PDF](https://wiki.math.ntnu.no/lib/exe/fetch.php?tok=34ee52&media=https%3A%2F%2Fwiki.math.ntnu.no%2F_media%2Ftma4135%2F2019h%2Fred.pdf)
+
+Spring 2019 : [PDF](https://wiki.math.ntnu.no/_media/tma4130/2019h/tma4125-30-35-k19-lf.pdf)
+
+Autumn 2018 : [PDF](https://wiki.math.ntnu.no/_media/tma4130/2018h/exam_fall18_tma4130_english.pdf) solution: [PDF](https://wiki.math.ntnu.no/_media/tma4130/2018h/solutions_tma4130.pdf)
+
+Spring 2018 : [PDF](https://wiki.math.ntnu.no/_media/tma4135/2018h/tma4125_final_exam_may_bm.pdf) solution:  [PDF](https://wiki.math.ntnu.no/_media/tma4135/2018h/tma4125_final_exam_may_solution.pdf)
